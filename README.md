@@ -48,8 +48,6 @@ Sistema-Clinica-Maven/
 ├── src/            # Código-fonte da aplicação
 │   └── main/
 │       └── java/   # Classes Java
-├── target/         # Build (compilado), gerado pelo Maven
-├── .settings/      # Configurações da IDE (não essenciais)
 ├── pom.xml         # Arquivo de configuração do Maven
 └── README.md       # Documentação do projeto
 ```
